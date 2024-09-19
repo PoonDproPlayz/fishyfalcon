@@ -1,5 +1,5 @@
 # FishyFalcon
-A quad motor 3D printer board that supports spi or uart control on stepstick drivers and external driver functionality it is based around the STM32 Blackpill and the Pi Pico.
+A quad motor 3D printer board that supports spi or uart control on stepstick drivers and external driver functionality it is based around the STM32 Blackpill and the Pi Pico.<br />
       Features
 
 # Credits
