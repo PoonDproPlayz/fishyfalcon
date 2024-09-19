@@ -14,9 +14,9 @@ A quad motor 3D printer board that supports spi or uart control on stepstick dri
 | 3x3 2.54mm male pins | 4 | $ 0.88 | SPI/UART configuration | [https://www.lcsc.com/product-detail/Pin-Headers_HCTL-PZ254-3-03-Z-2-5-G0_C7429377.html](https://www.lcsc.com/product-detail/Pin-Headers_HCTL-PZ254-3-03-Z-2-5-G0_C7429377.html) |
 | JST XH 2P | 4 | $ 0.36 | Endstops | [https://www.lcsc.com/product-detail/Wire-To-Board-Connector_span-style-background-color-ff0-JST-span-B2B-XH-A-LF-SN_C158012.html](https://www.lcsc.com/product-detail/Wire-To-Board-Connector_span-style-background-color-ff0-JST-span-B2B-XH-A-LF-SN_C158012.html) |
 | JST XH 4P | 4 | $ 0.42 | Driver out | [https://www.lcsc.com/product-detail/Wire-To-Board-Connector_span-style-background-color-ff0-JST-span-B4B-XH-A-LF-SN_C144395.html](https://www.lcsc.com/product-detail/Wire-To-Board-Connector_span-style-background-color-ff0-JST-span-B4B-XH-A-LF-SN_C144395.html) |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| AO3400A | 12 | $ 1.07 | SOT-23 Mosfet for external driver | [https://www.lcsc.com/product-detail/MOSFETs_Alpha-Omega-Semicon-AO3400A_C20917.html](https://www.lcsc.com/product-detail/MOSFETs_Alpha-Omega-Semicon-AO3400A_C20917.html) |
+| 10K SMD Resistor | 4 | $ 0.22 | R1206 1/4W Enable pin resistor | [https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RS-06K103JT_C118075.html](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RS-06K103JT_C118075.html) |
+| 0Ω SMD Resistor | 12 | $ 0.39 | R1206 Check if your mosfet needs a differnt value resistor | [https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Vishay-Intertech-RCA12060000ZSEA_C4126934.html](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Vishay-Intertech-RCA12060000ZSEA_C4126934.html) |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
