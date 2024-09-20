@@ -25,6 +25,7 @@ A quad motor 3D printer board that supports spi or uart control on stepstick dri
 | 1x3 2.54 male pins | 10 | $ 1.52 | Dual driver and motor voltage selection | [https://www.lcsc.com/product-detail/Wire-To-Board-Connector_MOLEX-22032031_C505002.html](https://www.lcsc.com/product-detail/Wire-To-Board-Connector_MOLEX-22032031_C505002.html) |
 | STM32F4x1 Blackpill | 1 | $ 3.05 | MCU(Choose one) | [https://www.aliexpress.com/item/1005006127461676.html](https://www.aliexpress.com/item/1005006127461676.html) |
 | Pi Pico | 1 | $ 2.66 | MCU(Choose one) | [https://th.aliexpress.com/item/1005003708090298.html?gatewayAdapt=glo2tha](https://th.aliexpress.com/item/1005003708090298.html?gatewayAdapt=glo2tha) |
+|---------|-------------|------------|----------|------------|
 Total(Excluding shipping/tax etc.) ≈ $ 12.8
 
 # Credits
