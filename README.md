@@ -29,11 +29,11 @@ A quad motor 3D printer board that supports spi or uart control on stepstick dri
 Total(Excluding shipping/tax etc.) ≈ $ 12.8
 
 # Dual Driver Setting
-![dual driver mode](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Images/Dual_driver_mode.png)<br />
-Bridge the following pins with jumpers to drive driver 1 and 2 together and driver 3 and 4 together<br />
-![Single driver mode](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Images/Individual_driver_mode.png)<br />
-Bridge the following pins with jumpers to individually drive each motor<br />
-Left side is driver 1 and 2 right is 3 and 4. Each 3x3 block has DIR, STEP, EN in order from left to right<br />
+| Setting | Instructions |
+|![dual driver mode](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Images/Dual_driver_mode.png)|Bridge the following pins with jumpers to drive driver 1 and 2 together and driver 3 and 4 together|
+|![Single driver mode](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Images/Individual_driver_mode.png)|Bridge the following pins with jumpers to individually drive each motor|
+
+Left side is driver 1 and 2 right is 3 and 4. Each 3x3 block has DIR, STEP, EN in order from left to right
 # Credits
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **69420exp** For his idea on Dual driver control through only 3 pins<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Annex Engineering** For their pinouts<br />
