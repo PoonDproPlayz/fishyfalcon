@@ -30,7 +30,7 @@ Total(Excluding shipping/tax etc.) ≈ $ 12.8
 
 # Dual Driver Setting
 ![Bridge The highlighted pins to set dual driver mode](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Images/Dual_driver_mode.png)
-<h1>Bridge the following pins with jumpers to drive driver 1 and 2 with the same pins and driver 3 and 4 with the same pins<h1/>
+<h1>Bridge the following pins with jumpers to drive driver 1 and 2 with the same pins and driver 3 and 4 with the same pins<h1 />
 # Credits
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **69420exp** For his idea on Dual driver control through only 3 pins<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Annex Engineering** For their pinouts<br />
