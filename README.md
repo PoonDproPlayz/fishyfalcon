@@ -33,8 +33,15 @@ Total(Excluding shipping/tax etc.) ≈ $ 19.77
 | ------------- | ------------- |
 | ![dual driver mode](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Images/Dual_driver_mode.png)|Bridge the following pins with jumpers to drive driver 1 and 2 together and driver 3 and 4 together |
 | ![Single driver mode](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Images/Individual_driver_mode.png)|Bridge the following pins with jumpers to individually drive each motor |
-
 Left side is driver 1 and 2 right is 3 and 4. Each 3x3 block has DIR, STEP, EN in order from left to right
+
+# Motor Voltage Selection
+
+| Setting | Instructions |
+| ------------- | ------------- |
+|![VM as driver power](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Images/VM_for_motors.png)| Bridge the following pins with jumpers to supply the motor with the VM DC input |
+|![VM as driver power](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Images/VB_for_motors.png)| Bridge the following pins with jumpers to supply the motor with the VB DC input |
+
 # Credits
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **69420exp** For his work on Dual driver control<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Annex Engineering** For their pinouts<br />
