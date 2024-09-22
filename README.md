@@ -45,7 +45,7 @@ Left side is driver 1 and 2 right is 3 and 4. Each 3x3 block has DIR, STEP, EN i
 |![VM as driver power](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Images/VB_for_motors.png)| Bridge the following pins with jumpers to supply the motor with the VB DC input |
 
 # Assembly
-[PCB Assembly](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Docs/Assembly.md)
+[PCB Assembly](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Docs/Assembly.md)<br />
 [Board Mounting](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Docs/Mounting%20the%20board.md)
 
 # Credits
