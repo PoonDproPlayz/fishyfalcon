@@ -7,3 +7,5 @@
 | 6 1x3 male dupont pin headers go on the prefixes begining with U. JST XH 2P go on prefixes begining with H | ![Endstop and dual driver](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Images/dualdriver%20select%20and%20endstops.png) |
 | Fuses and wire terminals get soldered on into its corresponding slots | ![Fuse and power in](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Images/Fuse%20power%20and%20pinheader.png) |
 | The 330 or 470uf caps go into its slot between the drivers (Make sure your orientation is correct!). Female 1x8 and 1x2 dupont pin headers go on the stepstick slot. 2x3 and 3x3 male pinheaders go between the stepstick pinheaders. JST XH 4P and 1x3 male dupont headers go at the top | ![Stepstick slot](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Images/Stepstick%20set.png) |
+
+[Mounting the board](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Docs/Mounting%20the%20board.md)
