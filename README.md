@@ -44,6 +44,9 @@ Left side is driver 1 and 2 right is 3 and 4. Each 3x3 block has DIR, STEP, EN i
 |![VM as driver power](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Images/VM_for_motors.png)| Bridge the following pins with jumpers to supply the motor with the VM DC input |
 |![VM as driver power](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Images/VB_for_motors.png)| Bridge the following pins with jumpers to supply the motor with the VB DC input |
 
+# Assembly
+[PCB Assembly](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Docs/Assembly.md)
+
 # Credits
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **69420exp** For his work on Dual driver control<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Annex Engineering** For their pinouts<br />
