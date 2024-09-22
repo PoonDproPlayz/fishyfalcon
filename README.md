@@ -46,6 +46,7 @@ Left side is driver 1 and 2 right is 3 and 4. Each 3x3 block has DIR, STEP, EN i
 
 # Assembly
 [PCB Assembly](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Docs/Assembly.md)
+[Board Mounting](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Docs/Mounting%20the%20board.md)
 
 # Credits
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **69420exp** For his work on Dual driver control<br />
