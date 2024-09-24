@@ -30,7 +30,8 @@ A quad motor 3D printer board that supports spi or uart control on stepstick dri
 | 0.33Ω SMD Resistor | 1 | $ 0.29 | 0603 resistor | [https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAJ033KT5E_C247018.html](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAJ033KT5E_C247018.html) |
 | 470pf SMD Cap | 1 | $ 0.26 | 0603 Cap | [https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B471K500NT_C1620.html](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B471K500NT_C1620.html) |
 | 1N5819 Diode | 1 | $ 0.42 | Schottkey Diode | [https://www.lcsc.com/product-detail/Schottky-Diodes_STMicroelectronics-1N5819_C110032.html](https://www.lcsc.com/product-detail/Schottky-Diodes_STMicroelectronics-1N5819_C110032.html) |
-| 220uH SMD inductor ||
+| 220uH SMD inductor | 1 | $ 0.41 | SMD inductor | [https://www.lcsc.com/product-detail/Power-Inductors_YJYCOIN-CD54YP0504-221M_C492674.html](https://www.lcsc.com/product-detail/Power-Inductors_YJYCOIN-CD54YP0504-221M_C492674.html) |
+| 1uH SMD inductor | 1 | $ 0.19 | L0603 inductor |  |
 Total(Excluding shipping/tax etc.) ≈ $ 12.8
 
 # Dual Driver Setting
