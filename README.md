@@ -31,7 +31,12 @@ A quad motor 3D printer board that supports spi or uart control on stepstick dri
 | 470pf SMD Cap | 1 | $ 0.26 | 0603 Cap | [https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B471K500NT_C1620.html](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B471K500NT_C1620.html) |
 | 1N5819 Diode | 1 | $ 0.42 | Schottkey Diode | [https://www.lcsc.com/product-detail/Schottky-Diodes_STMicroelectronics-1N5819_C110032.html](https://www.lcsc.com/product-detail/Schottky-Diodes_STMicroelectronics-1N5819_C110032.html) |
 | 220uH SMD inductor | 1 | $ 0.41 | SMD inductor | [https://www.lcsc.com/product-detail/Power-Inductors_YJYCOIN-CD54YP0504-221M_C492674.html](https://www.lcsc.com/product-detail/Power-Inductors_YJYCOIN-CD54YP0504-221M_C492674.html) |
-| 1uH SMD inductor | 1 | $ 0.19 | L0603 inductor |  |
+| 1uH SMD inductor | 1 | $ 0.19 | L0603 inductor | [https://www.lcsc.com/product-detail/Inductors-SMD_Sunlord-SDFL1608Q1R0KTF_C22037.html](https://www.lcsc.com/product-detail/Inductors-SMD_Sunlord-SDFL1608Q1R0KTF_C22037.html) |
+| 3.83K SMD resistor | 1 | $ 0.10 | 0603 resistor | [https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF3831T5E_C22982.html](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF3831T5E_C22982.html) |
+| 100uf 63v cap | 2 | $ 0.53 | 100uf tht cap | [https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-Leaded_CX-Dongguan-Chengxing-Elec-KM107M063G13RR0VH2FP0_C45675.html](https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-Leaded_CX-Dongguan-Chengxing-Elec-KM107M063G13RR0VH2FP0_C45675.html) |
+| 470uf 50v cap | 1 | $ 0.54 | 470uf tht cap | [https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-Leaded_CX-Dongguan-Chengxing-Elec-GR477V050G20RR0VH4FP0_C3312.html](https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-Leaded_CX-Dongguan-Chengxing-Elec-GR477V050G20RR0VH4FP0_C3312.html) |
+| 1.2k SMD resistor  | 1 | $ 0.66 | 0603 SMD resistor | [https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Viking-Tech-AR03DTCX1201_C319998.html](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Viking-Tech-AR03DTCX1201_C319998.html) |
+
 Total(Excluding shipping/tax etc.) ≈ $ 12.8
 
 # Dual Driver Setting
