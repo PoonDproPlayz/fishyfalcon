@@ -26,8 +26,12 @@ A quad motor 3D printer board that supports spi or uart control on stepstick dri
 | 1x2 2.54 male pins | 4 | $ 0.60 | Diag and vref pins | [https://www.lcsc.com/product-detail/span-style-background-color-ff0-Female-span-Headers_Shenzhen-Kinghelm-Elec-KH-2-54FH-1X2P-H8-5_C2905414.html](https://www.lcsc.com/product-detail/span-style-background-color-ff0-Female-span-Headers_Shenzhen-Kinghelm-Elec-KH-2-54FH-1X2P-H8-5_C2905414.html)|
 | STM32F4x1 Blackpill | 1 | $ 3.05 | MCU(Choose one) | [https://www.aliexpress.com/item/1005006127461676.html](https://www.aliexpress.com/item/1005006127461676.html) |
 | Pi Pico | 1 | $ 2.66 | MCU(Choose one) | [https://th.aliexpress.com/item/1005003708090298.html?gatewayAdapt=glo2tha](https://aliexpress.com/item/1005003708090298.html) |
-| 5V module | 1 | $6.97 | 24V to 5V power module | [https://aliexpress.com/item/1005006244142432.html](https://aliexpress.com/item/1005006244142432.html)|
-Total(Excluding shipping/tax etc.) ≈ $ 19.77
+| MC34063ADR | 1 | $ 1.30 | SOIC-8 Adjustable dc-dc converter | [https://www.lcsc.com/product-detail/DC-DC-Converters_Texas-Instruments-MC34063ADR_C100023.html](https://www.lcsc.com/product-detail/DC-DC-Converters_Texas-Instruments-MC34063ADR_C100023.html) |
+| 0.33Ω SMD Resistor | 1 | $ 0.29 | 0603 resistor | [https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAJ033KT5E_C247018.html](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAJ033KT5E_C247018.html) |
+| 470pf SMD Cap | 1 | $ 0.26 | 0603 Cap | [https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B471K500NT_C1620.html](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B471K500NT_C1620.html) |
+| 1N5819 Diode | 1 | $ 0.42 | Schottkey Diode | [https://www.lcsc.com/product-detail/Schottky-Diodes_STMicroelectronics-1N5819_C110032.html](https://www.lcsc.com/product-detail/Schottky-Diodes_STMicroelectronics-1N5819_C110032.html) |
+| 220uH SMD inductor ||
+Total(Excluding shipping/tax etc.) ≈ $ 12.8
 
 # Dual Driver Setting
 | Setting | Instructions |
