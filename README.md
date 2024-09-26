@@ -59,6 +59,6 @@ Left side is driver 1 and 2 right is 3 and 4. Each 3x3 block has DIR, STEP, EN i
 [Board Mounting](https://github.com/PoonDproPlayz/fishyfalcon/blob/main/Docs/Mounting%20the%20board.md)
 
 # Credits
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **69420exp** For his work on Dual driver control<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **69420exp** For his work on Dual driver control and part of the schematics<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Annex Engineering** For their pinouts<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **comradef191** (Discord:f191) For the jumper configurations for the stepstick/polulu style drivers and the extensive work on the CAD models<br />
